@@ -14,11 +14,12 @@ This project demonstrates a **Fully Undetectable (FUD) UAC Bypass** technique le
 - Windows 10 / 11 (UAC enabled)  
 - Administrative privileges **not required**  
 - C++ Compiler (MSVC, MinGW)  
-- Python 3.x (for automation)  
+- Python 3.x (for automation)
+  
+  ## 🛒 Buy:  
+🔹 **Contact me https://t.me/lxst_century ** 
 
 ##  PROOF  
 https://github.com/user-attachments/assets/c5bc8991-ae8f-475e-9b95-aad7f842091e
 
-## 🛒 Buy:  
-🔹 **Contact me https://t.me/lxst_century ** 
 
