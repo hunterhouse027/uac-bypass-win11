@@ -4,7 +4,7 @@
 This project demonstrates a **Fully Undetectable (FUD) UAC Bypass** technique leveraging **DLL Side-Loading**. It works on **Windows 10 & 11**, allowing privilege escalation without triggering UAC prompts.  
 
 ## 🎯 Features    
-- **Fully Undetectable (FUD)** – Evades modern security solutions.  
+- **Fully Undetectable (FUD)** – Evades modern security solutions, such as winows defender, avast, kaspersky, etc.  
 - **Cross-Compatible** – Works on **Windows 10 & 11**.  
 - **Multi-Language Development** – Written in **C++ & Python**.  
 - **Automated Execution** – Seamless execution for privilege escalation.  
@@ -12,7 +12,6 @@ This project demonstrates a **Fully Undetectable (FUD) UAC Bypass** technique le
 
 ## 📌 Requirements  
 - Windows 10 / 11 (UAC enabled)  
-- Administrative privileges **not required**  
 - C++ Compiler (MSVC, MinGW)  
 - Python 3.x (for automation)
   
