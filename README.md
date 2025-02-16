@@ -3,8 +3,7 @@
 ## 🚀 Overview  
 This project demonstrates a **Fully Undetectable (FUD) UAC Bypass** technique leveraging **DLL Side-Loading**. It works on **Windows 10 & 11**, allowing privilege escalation without triggering UAC prompts.  
 
-## 🎯 Features  
-- **Stealthy Execution** – Bypasses UAC without user interaction.  
+## 🎯 Features    
 - **Fully Undetectable (FUD)** – Evades modern security solutions.  
 - **Cross-Compatible** – Works on **Windows 10 & 11**.  
 - **Multi-Language Development** – Written in **C++ & Python**.  
