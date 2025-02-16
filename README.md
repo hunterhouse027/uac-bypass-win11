@@ -1,7 +1,7 @@
 # 🔥 FUD UAC Bypass – DLL Side-Loading Exploit  
 
 ## 🚀 Overview  
-This project demonstrates a **Fully Undetectable (FUD) UAC Bypass** technique leveraging **DLL Side-Loading**. It works on **Windows 10 & 11**, allowing privilege escalation without triggering UAC prompts.  
+demonstratetion a **Fully Undetectable (FUD) UAC Bypass** technique leveraging **DLL Side-Loading**. It works on **Windows 10 & 11**, allowing privilege escalation without triggering UAC prompts.  
 
 ## 🎯 Features    
 - **Fully Undetectable (FUD)** – Evades modern security solutions, such as winows defender, avast, kaspersky, etc.  
