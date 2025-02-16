@@ -16,7 +16,7 @@ demonstratetion a **Fully Undetectable (FUD) UAC Bypass** technique leveraging *
 - Python 3.x (for automation)
   
   ## 🛒 Buy:  
-🔹 **Contact me https://t.me/lxst_century ** u will resive full sourse code and explanation how u can use it for your targets
+🔹 **Contact me https://t.me/lxst_century ** u will resive full sourse code and help with building 
 
 ##  PROOF  
 https://github.com/user-attachments/assets/c5bc8991-ae8f-475e-9b95-aad7f842091e
