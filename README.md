@@ -8,13 +8,7 @@ This project demonstrates a **Fully Undetectable (FUD) UAC Bypass** technique le
 - **Cross-Compatible** – Works on **Windows 10 & 11**.  
 - **Multi-Language Development** – Written in **C++ & Python**.  
 - **Automated Execution** – Seamless execution for privilege escalation.  
-
-## 🛠️ Technical Approach  
-This bypass relies on **DLL Side-Loading**, where a legitimate signed executable loads a malicious DLL instead of the intended one. Steps:  
-1. Identify a trusted **Windows-native executable** vulnerable to side-loading.  
-2. Craft a **malicious DLL** that mimics the expected DLL.  
-3. Deploy both the **legitimate executable** and the **malicious DLL** in the same directory.  
-4. Upon execution, the executable loads the attacker-controlled DLL, executing code with elevated privileges.  
+ 
 
 ## 📌 Requirements  
 - Windows 10 / 11 (UAC enabled)  
@@ -24,4 +18,7 @@ This bypass relies on **DLL Side-Loading**, where a legitimate signed executable
 
 ##  PROOF  
 https://github.com/user-attachments/assets/c5bc8991-ae8f-475e-9b95-aad7f842091e
+
+## 🛒 Buy:  
+🔹 **Contact me https://t.me/lxst_century ** 
 
