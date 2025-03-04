@@ -18,8 +18,13 @@ demonstratetion a **Fully Undetectable (FUD) UAC Bypass** technique leveraging *
   ## 🛒 Buy:  
 🔹 **Contact me https://t.me/lxst_century** u will resive full sourse code and help with building, and free test if u need
 
-##  PROOF ON WIN11
-https://github.com/user-attachments/assets/c5bc8991-ae8f-475e-9b95-aad7f842091e
+##  PROOF ON WIN11 (from user to system)
+
+
+
+https://github.com/user-attachments/assets/1d710dd1-ac73-4e7e-8be7-12a3608b65fb
+
+
 
 ONLY FOR EDUCATIONAL PURPOSES
 
