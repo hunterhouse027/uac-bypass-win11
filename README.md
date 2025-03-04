@@ -10,11 +10,6 @@ demonstratetion a **Fully Undetectable (FUD) UAC Bypass** technique leveraging *
 - **Multi-Language Development** – Written in **C++ & Python**.  
 - **Automated Execution** – Seamless execution for privilege escalation.  
  
-
-## 📌 Requirements  
-- Windows 10 / 11 (UAC enabled)  
-- C++ Compiler (MSVC, MinGW)  
-- Python 3.x (for automation)
   
   ## 🛒 Buy:  
 🔹 **Contact me https://t.me/lxst_century** u will resive full sourse code and help with building, and free test if u need
